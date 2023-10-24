@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+# Olá, me chamo Eduardo, e sou estudante de Ciência da computação na UFSCAr,em São Carlos.
+## Bem vindo ao meu git👋
 <!--
 **Edu-Spinelli/Edu-Spinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
