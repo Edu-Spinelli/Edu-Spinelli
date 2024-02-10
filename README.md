@@ -7,5 +7,6 @@ I'm a Computer Science studente from UFSCar. I was State Champion of WordSkills 
 
 -🔒 Enthusiast in the area of ​​information security (cryptography)
 
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,git,js,linux,postgres,py,vscode&perline=9)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu-Spinelli)](https://github.com/anuraghazra/github-readme-stats)
