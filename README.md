@@ -9,7 +9,7 @@ I'm a Computer Science student from UFSCar. I was State Champion of WordSkills S
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,git,js,linux,postgres,py,vscode&perline=9)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu-Sinelli&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu-Spinelli&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> 
   <a href="https://www.instagram.com/edu_spinelli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
