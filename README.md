@@ -3,7 +3,7 @@
 # Welcome to my GitHub
 I'm a Computer Science student from UFSCar. I was State Champion of WordSkills São Paulo 2019, and participated in the Festo Mechatronica Competition 2019.
 
--📖 Studing about Web development
+-📖 Studing about Web development.
 
 -🔒 Enthusiast in the area of ​​information security (cryptography)    <img src = "image_git.gif" width = "325px" align = "right">
 
