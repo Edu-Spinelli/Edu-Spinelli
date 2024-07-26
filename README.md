@@ -6,7 +6,7 @@ Hi, my name is Eduardo, and I'm a Computer Science student at UFSCar.
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,git,js,linux,postgres,py,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,js,linux,postgres,vscode&perline=9)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
@@ -38,8 +38,7 @@ A bot that uses Twilio and Binance APIs to monitor cryptocurrency prices and res
 
 ## 🌟 Featured Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Edu-Spinelli&repo=crypto-price-bot&theme=radical)](https://github.com/Edu-Spinelli/crypto-price-bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Edu-Spinelli&repo=project2&theme=radical)](https://github.com/Edu-Spinelli/project2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Edu-Spinelli&repo=CoinWithWhats&theme=radical)](https://github.com/Edu-Spinelli/CoinWithWhats)
 
 ---
 
