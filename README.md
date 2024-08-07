@@ -4,6 +4,7 @@ Hi, my name is Eduardo, and I'm a Computer Science student at UFSCar.
 
 <img src="image_git.gif" width="325px" align="right">
 
+
 ## 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,js,linux,postgres,vscode&perline=9)](https://skillicons.dev)
