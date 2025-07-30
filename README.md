@@ -3,11 +3,9 @@
 <a href="https://www.pentagro.com.br/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1170201868/icone_400x400.jpg" width="30px"></a> Desenvolvedor Full Stack na **[Pentagro](https://www.pentagro.com.br/)** e estudante de Ciência da Computação na **UFSCar**.
 
 
-Sou um apaixonado por tecnologia, focado em resolver problemas com código e criar automações que otimizam processos. Tenho um interesse especial por desenvolvimento web e segurança da informação.
+Sou um apaixonado por tecnologia, focado em resolver problemas com código e criar automações que otimizam processos. Tenho um interesse especial por desenvolvimento backend e segurança da informação.
 
-<div align="right">
-  <img src="image_git.gif" width="325px">
-</div>
+
 
 ---
 
@@ -29,17 +27,7 @@ Sou um apaixonado por tecnologia, focado em resolver problemas com código e cri
 #### DevOps, Automação & Outros
 [![DevOps & Other Skills](https://skillicons.dev/icons?i=redis,postgres,linux,git,vscode&perline=6)](https://skillicons.dev)
 
----
 
-## 💻 Projetos em Destaque
-
-### [Crypto Price Bot](https://github.com/Edu-Spinelli/crypto-price-bot)
-🤖 Bot que utiliza as APIs da Twilio e da Binance para monitorar o preço de criptomoedas e responder a mensagens no WhatsApp. Suporta todas as criptomoedas da Binance e fornece cotações, dados históricos e mais.
-- **Tecnologias:** Python, Twilio, Binance API.
-
-*(Sugestão: Adicione aqui outros projetos que você se orgulha!)*
-
----
 
 ## 📊 Minhas Estatísticas no GitHub
 
