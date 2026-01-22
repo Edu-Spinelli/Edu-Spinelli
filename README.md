@@ -25,7 +25,7 @@ Sou um apaixonado por tecnologia, focado em resolver problemas com código e cri
 [![Frontend Skills](https://skillicons.dev/icons?i=react,vue,svelte&perline=3)](https://skillicons.dev)
 
 #### DevOps, Automação & Outros
-[![DevOps & Other Skills](https://skillicons.dev/icons?i=redis,postgres,linux,git,vscode&perline=6)](https://skillicons.dev)
+[![DevOps & Other Skills](https://skillicons.dev/icons?i=redis,postgres,docker,kubernetes,linux,git,vscode&perline=6)](https://skillicons.dev)
 
 
 
