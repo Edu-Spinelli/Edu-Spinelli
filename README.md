@@ -71,28 +71,16 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu-Spinelli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Spinelli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117"/>
+<a href="https://github.com/Edu-Spinelli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu-Spinelli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Spinelli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</a>
 
 <br><br>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edu-Spinelli&theme=tokyonight&hide_border=true&background=0d1117"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Edu-Spinelli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Edu-Spinelli&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=00d9ff&point=ffffff)
+<a href="https://github.com/Edu-Spinelli">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Edu-Spinelli&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
