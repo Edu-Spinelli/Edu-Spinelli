@@ -71,16 +71,17 @@
 
 <div align="center">
 
-<a href="https://github.com/Edu-Spinelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu-Spinelli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Spinelli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edu-Spinelli&theme=tokyonight" width="100%"/>
 
-<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edu-Spinelli&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Edu-Spinelli&theme=tokyonight&utcOffset=-3"/>
 
-<a href="https://github.com/Edu-Spinelli">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Edu-Spinelli&theme=tokyonight&hide_border=true"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edu-Spinelli&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edu-Spinelli&theme=tokyonight"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Edu-Spinelli&theme=tokyonight&hide_border=true"/>
 
 </div>
 
