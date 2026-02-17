@@ -72,15 +72,7 @@
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edu-Spinelli&theme=tokyonight" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edu-Spinelli&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Edu-Spinelli&theme=tokyonight&utcOffset=-3"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edu-Spinelli&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edu-Spinelli&theme=tokyonight"/>
-
 <br>
-
 <img src="https://streak-stats.demolab.com/?user=Edu-Spinelli&theme=tokyonight&hide_border=true"/>
 
 </div>
