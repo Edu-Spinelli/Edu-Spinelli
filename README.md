@@ -19,28 +19,28 @@
 
 **`CLASSIFIED // EVA-03 PILOT FILE // CLEARANCE: ALPHA`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=9D4EDD&center=true&vCenter=true&width=720&lines=PILOT_ID%3A+SPINELLI%2C+EDUARDO+H.;Full+Stack+Engineer+%2F%2F+Pentagro;.NET+10+%E2%80%A2+Microservices+%E2%80%A2+RAG;Founder+%E2%80%94+SpinSoftware;N%C3%A3o+fuja.+N%C3%A3o+fuja.+N%C3%A3o+fuja.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=600&color=9D4EDD&center=true&vCenter=true&width=760&lines=%3E+SCANNING+SECTOR+7...+ANGEL+DETECTED;%3E+PILOT+ID%3A+SPINELLI%2C+EDUARDO+H.;%3E+LAUNCHING+EVA-03+%2F%2F+SYNC+87.3%25;%3E+A.T.+FIELD+ACTIVE;%3E+TARGET+ACQUIRED+%2F%2F+SACHIEL;%3E+ENGAGING+%E2%80%94+.NET+10+%E2%80%A2+RAG+%E2%80%A2+MICROSERVICES;%3E+N%C3%A3o+fuja.+N%C3%A3o+fuja.+N%C3%A3o+fuja.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Edu-Spinelli&label=INTRUSION_DETECTED&color=9D4EDD&style=for-the-badge)
+
+<br>
+
+[![Engaged Angels](https://img.shields.io/badge/ENGAGED%20ANGELS-6-9D4EDD?style=for-the-badge&labelColor=0a0a0a)](#)
+[![Sync](https://img.shields.io/badge/SYNC%20RATIO-87.3%25-c77dff?style=for-the-badge&labelColor=0a0a0a)](#)
+[![AT Field](https://img.shields.io/badge/A.T.%20FIELD-ACTIVE-00ff66?style=for-the-badge&labelColor=0a0a0a)](#)
+[![Third Impact](https://img.shields.io/badge/THIRD%20IMPACT-AVERTED-ff006e?style=for-the-badge&labelColor=0a0a0a)](#)
 
 </div>
 
 ---
 
-### `> PERSONNEL_FILE.exe`
+### `> NERV TACTICAL CONSOLE`
 
-```yaml
-PILOT_NAME    : Eduardo Henrique Spinelli
-DESIGNATION   : Full Stack Software Engineer
-HQ_LOCATION   : São Carlos / SP — Brasil
-ACADEMIA      : UFSCar // Ciência da Computação  (2021–2026)
-PRIMARY_UNIT  : Pentagro                          [ EVA-01 ]
-SECONDARY     : SpinSoftware  (Founder)           [ EVA-02 ]
-RESEARCH      : Well-being AI @ UFSCar            [ EVA-03 ]
-LANGUAGES     : PT-BR (Native) // EN (C1) // ES (A2)
-─────────────────────────────────────────────────────────────
-STATUS        : OPERATIONAL
-```
+<div align="center">
+
+<img src="./assets/nerv-hud.svg" width="100%" alt="NERV Tactical HUD — Pilot file, Sync ratio, Current engagement, A.T. Field" />
+
+</div>
 
 ---
 
@@ -99,6 +99,33 @@ STATUS        : OPERATIONAL
 
 > *Production-grade systems shipped. Each angel matched to a project by shape and impact.*
 
+#### `> DEPLOYMENT SEQUENCE // BATTLE LOG`
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant N as NERV HQ
+    participant M as MAGI System
+    participant E as EVA-03
+    participant A as Angel
+
+    rect rgba(157, 78, 221, 0.08)
+      N->>+M: Pattern detected
+      M->>M: Melchior • Balthasar • Casper<br/>3-way unanimity vote
+      M-->>-N: Threat confirmed
+    end
+
+    rect rgba(199, 125, 255, 0.10)
+      N->>+E: Pilot, get in the EVA
+      E->>A: Engage A.T. Field
+      A-->>E: Counter-strike
+      E->>A: Pierce barrier
+      Note over E,A: Sync ratio peak — 94.1%
+      E-->>-N: Target neutralized
+    end
+```
+
+
 ### 🟣 &nbsp;`SACHIEL` &nbsp;·&nbsp; *Levenberg-Marquardt Optimizer*
 First contact. Engine de otimização industrial em tempo real em **.NET** calculando cenários ótimos de operação para usinas de cana-de-açúcar. Resultado: **+3% de eficiência em 3 usinas brasileiras**.
 
@@ -120,6 +147,12 @@ Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask
 ---
 
 ## `[ A.T. FIELD ACTIVE ]`
+
+<div align="center">
+
+<img src="./assets/at-field.svg" width="100%" alt="A.T. Field — hexagonal barrier pulsing" />
+
+</div>
 
 > *MAGI System distributed cognition. Three nodes — one stack.*
 
