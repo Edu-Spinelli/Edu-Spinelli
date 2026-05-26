@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/boot-sequence.svg" width="100%" alt="NERV.SYS boot sequence" />
+<img loading="lazy" src="./assets/boot-sequence.svg" width="100%" alt="NERV.SYS boot sequence" />
 
 <br><br>
 
@@ -15,6 +15,12 @@
 > Construo **sistemas críticos em produção** — migração de monolitos para microsserviços, otimização industrial em tempo real, RAG sobre 15K+ documentos, IA aplicada à saúde mental. Liderança técnica, arquitetura, e a disciplina de quem já viu rodar em 3 usinas brasileiras.
 >
 > `PT-BR (Nativo) // EN (C1) // ES (A2)` &nbsp; · &nbsp; `São Carlos / SP — Brasil`
+
+<br>
+
+#### `> BRIDGE NAVIGATION`
+
+[`▸ Tactical`](#tactical) &nbsp;·&nbsp; [`▸ EVAs`](#evas) &nbsp;·&nbsp; [`▸ Angels`](#angels) &nbsp;·&nbsp; [`▸ Side Ops`](#side-ops) &nbsp;·&nbsp; [`▸ Timeline`](#timeline) &nbsp;·&nbsp; [`▸ Stack`](#stack) &nbsp;·&nbsp; [`▸ Stats`](#stats) &nbsp;·&nbsp; [`▸ Manifesto`](#manifesto) &nbsp;·&nbsp; [`▸ Contact`](#contact)
 
 <br>
 
@@ -27,7 +33,7 @@
 ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝  ╚═══╝
 ```
 
-<img src="./assets/eva-launch.gif" width="100%" alt="EVA-01 LAUNCH SEQUENCE — catapult cradle, surface breach, deployment" />
+<img loading="lazy" src="./assets/eva-launch.gif" width="100%" alt="EVA-01 LAUNCH SEQUENCE — catapult cradle, surface breach, deployment" />
 
 **`CLASSIFIED // EVA-03 PILOT FILE // CLEARANCE: ALPHA`**
 
@@ -44,25 +50,29 @@
 
 <br><br>
 
-<img src="./assets/tokyo-3.svg" width="100%" alt="Tokyo-3 cityscape with armored buildings retracting into Geofront" />
+<img loading="lazy" src="./assets/tokyo-3.svg" width="100%" alt="Tokyo-3 cityscape with armored buildings retracting into Geofront" />
 
 </div>
 
 ---
+
+<a id="tactical"></a>
 
 ### `> NERV TACTICAL CONSOLE`
 
 <div align="center">
 
-<img src="./assets/nerv-hud.svg" width="100%" alt="NERV Tactical HUD — Pilot file, Sync ratio, Current engagement, A.T. Field" />
+<img loading="lazy" src="./assets/nerv-hud.svg" width="100%" alt="NERV Tactical HUD — Pilot file, Sync ratio, Current engagement, A.T. Field" />
 
 <br><br>
 
-<img src="./assets/pilot-vitals.svg" width="100%" alt="Pilot vitals — ECG, brain wave, heart rate, sync, stress" />
+<img loading="lazy" src="./assets/pilot-vitals.svg" width="100%" alt="Pilot vitals — ECG, brain wave, heart rate, sync, stress" />
 
 </div>
 
 ---
+
+<a id="evas"></a>
 
 ## `[ EVA UNITS DEPLOYED ]`
 
@@ -72,7 +82,7 @@
 <tr>
 <td align="center" width="33%">
 
-<img src="./assets/eva-reactivate.gif" width="280" alt="EVA-01 reactivate"/>
+<img loading="lazy" src="./assets/eva-reactivate.gif" width="280" alt="EVA-01 reactivate"/>
 
 <br>
 
@@ -87,7 +97,7 @@
 </td>
 <td align="center" width="33%">
 
-<img src="./assets/eva-running.gif" width="280" alt="EVA-02 running"/>
+<img loading="lazy" src="./assets/eva-running.gif" width="280" alt="EVA-02 running"/>
 
 <br>
 
@@ -102,7 +112,7 @@
 </td>
 <td align="center" width="33%">
 
-<img src="./assets/eva-fight.gif" width="280" alt="EVA-03 engaging"/>
+<img loading="lazy" src="./assets/eva-fight.gif" width="280" alt="EVA-03 engaging"/>
 
 <br>
 
@@ -165,11 +175,13 @@
 
 ---
 
+<a id="angels"></a>
+
 ## `[ ANGEL ENCOUNTERS ]`
 
 <div align="center">
 
-<img src="./assets/angel-radar.svg" width="100%" alt="Angel detection radar — sector 7 sweep with detected blips and kill feed" />
+<img loading="lazy" src="./assets/angel-radar.svg" width="100%" alt="Angel detection radar — sector 7 sweep with detected blips and kill feed" />
 
 </div>
 
@@ -243,6 +255,8 @@ The final angel. Dashboards de visualização em tempo real com **Next.js + Char
 
 ---
 
+<a id="side-ops"></a>
+
 ## `[ SIDE OPERATIONS // INTEL BRIEFING ]`
 
 > *Public repositories — declassified field reports.*
@@ -261,6 +275,8 @@ The final angel. Dashboards de visualização em tempo real com **Next.js + Char
 | `OP-010` | [**uau_node_react**](https://github.com/Edu-Spinelli/uau_node_react) | ![React](https://img.shields.io/badge/-React-9D4EDD?style=flat-square&logo=react&logoColor=ffffff&labelColor=0a0a0a) | Node + React integration |
 
 ---
+
+<a id="timeline"></a>
 
 ## `[ NERV CHRONOLOGY // CAREER TIMELINE ]`
 
@@ -292,15 +308,17 @@ gantt
 
 ---
 
+<a id="stack"></a>
+
 ## `[ A.T. FIELD ACTIVE ]`
 
 <div align="center">
 
-<img src="./assets/magi-system.svg" width="100%" alt="MAGI System — Melchior, Balthasar, Casper voting in unanimity" />
+<img loading="lazy" src="./assets/magi-system.svg" width="100%" alt="MAGI System — Melchior, Balthasar, Casper voting in unanimity" />
 
 <br><br>
 
-<img src="./assets/at-field.svg" width="100%" alt="A.T. Field — hexagonal barrier pulsing" />
+<img loading="lazy" src="./assets/at-field.svg" width="100%" alt="A.T. Field — hexagonal barrier pulsing" />
 
 </div>
 
@@ -334,11 +352,13 @@ gantt
 
 ---
 
+<a id="stats"></a>
+
 ## `[ MAGI SYSTEM // COMBAT RECORDS ]`
 
 <div align="center">
 
-<img src="./assets/impact-metrics.svg" width="100%" alt="Impact metrics — +3% efficiency, 45 employees, 15K+ docs, 13 projects, .NET 10, RHCSA"/>
+<img loading="lazy" src="./assets/impact-metrics.svg" width="100%" alt="Impact metrics — +3% efficiency, 45 employees, 15K+ docs, 13 projects, .NET 10, RHCSA"/>
 
 <br><br>
 
@@ -395,6 +415,8 @@ gantt
 
 ---
 
+<a id="manifesto"></a>
+
 ## `[ ENGINEERING MANIFESTO ]`
 
 > *Cinco princípios — não negociáveis.*
@@ -408,6 +430,8 @@ gantt
 | `05` | **Engenharia é craft.** &nbsp; Clean Code, SOLID, DDD, TDD — não como dogma, como respeito por quem mantém depois. Linhas de código são lidas mais vezes do que escritas. |
 
 ---
+
+<a id="contact"></a>
 
 ## `[ TRANSMISSION CHANNELS ]`
 
@@ -426,7 +450,7 @@ gantt
 
 <div align="center">
 
-<img src="./assets/lance-of-longinus.svg" width="100%" alt="Lance of Longinus — anti A.T. Field armament in orbital standby" />
+<img loading="lazy" src="./assets/lance-of-longinus.svg" width="100%" alt="Lance of Longinus — anti A.T. Field armament in orbital standby" />
 
 </div>
 
@@ -444,7 +468,7 @@ gantt
 
 <div align="center">
 
-<img src="./assets/berserker-warning.svg" width="100%" alt="DANGER — Scenario 14 sealed. Click below to break the seal." />
+<img loading="lazy" src="./assets/berserker-warning.svg" width="100%" alt="DANGER — Scenario 14 sealed. Click below to break the seal." />
 
 </div>
 
@@ -461,7 +485,7 @@ gantt
 <tr>
 <td width="50%" align="center">
 
-<img src="./assets/eva-berserker.gif" width="100%" alt="EVA-01 BERSERK — mouth glowing, autonomous combat"/>
+<img loading="lazy" src="./assets/eva-berserker.gif" width="100%" alt="EVA-01 BERSERK — mouth glowing, autonomous combat"/>
 
 </td>
 <td width="50%" valign="top">
