@@ -1,96 +1,226 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eduardo%20Spinelli&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science&descSize=18&descAlignY=55&descAlign=50)
+<!-- ============================================================ -->
+<!--   EDUARDO SPINELLI  //  EVA-03 PILOT  //  CLASSIFIED        -->
+<!-- ============================================================ -->
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:FF6600&height=180&section=header&text=&fontSize=0&animation=fadeIn)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&lines=Desenvolvedor+Full+Stack+%7C+Pentagro;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+UFSCar;Backend+%7C+DevOps+%7C+Cloud+%7C+Seguran%C3%A7a)](https://git.io/typing-svg)
+```
+███╗   ██╗███████╗██████╗ ██╗   ██╗
+████╗  ██║██╔════╝██╔══██╗██║   ██║
+██╔██╗ ██║█████╗  ██████╔╝██║   ██║
+██║╚██╗██║██╔══╝  ██╔══██╗╚██╗ ██╔╝
+██║ ╚████║███████╗██║  ██║ ╚████╔╝
+╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝  ╚═══╝
+```
 
-<br>
+**`CLASSIFIED // EVA-03 PILOT FILE // CLEARANCE: ALPHA`**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Edu-Spinelli&color=blueviolet&style=for-the-badge&label=VISITANTES)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FF6600&center=true&vCenter=true&width=720&lines=PILOT_ID%3A+SPINELLI%2C+EDUARDO+H.;Full+Stack+Engineer+%2F%2F+Pentagro;.NET+10+%E2%80%A2+Microservices+%E2%80%A2+RAG;Founder+%E2%80%94+SpinSoftware;N%C3%A3o+fuja.+N%C3%A3o+fuja.+N%C3%A3o+fuja.)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Edu-Spinelli&label=INTRUSION_DETECTED&color=FF6600&style=for-the-badge)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="55%">
+### `> PERSONNEL_FILE.exe`
 
-### Sobre mim
-
-<a href="https://www.pentagro.com.br/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1170201868/icone_400x400.jpg" width="22px"></a> Desenvolvedor Full Stack na **[Pentagro](https://www.pentagro.com.br/)**
-
-- Estudante de **Ciência da Computação** na **UFSCar**
-- Apaixonado por **Backend**, **DevOps** e **Segurança da Informação**
-- Foco em resolver problemas com código e criar automações
-- Sempre explorando novas tecnologias e boas práticas
-
-</td>
-<td width="45%" align="center">
-
-<img src="./image_git.gif" width="300px" alt="coding gif">
-
-</td>
-</tr>
-</table>
+```yaml
+PILOT_NAME    : Eduardo Henrique Spinelli
+DESIGNATION   : Full Stack Software Engineer
+HQ_LOCATION   : São Carlos / SP — Brasil
+ACADEMIA      : UFSCar // Ciência da Computação  (2021–2026)
+PRIMARY_UNIT  : Pentagro                          [ EVA-01 ]
+SECONDARY     : SpinSoftware  (Founder)           [ EVA-02 ]
+RESEARCH      : Well-being AI @ UFSCar            [ EVA-03 ]
+LANGUAGES     : PT-BR (Native) // EN (C1) // ES (A2)
+─────────────────────────────────────────────────────────────
+STATUS        : OPERATIONAL
+```
 
 ---
 
-### Conecte-se comigo
+## `[ EVA UNITS DEPLOYED ]`
+
+> *Active assignments. Sync ratio reflects current operational depth.*
+
+### `EVA-01 // PENTAGRO` &nbsp;·&nbsp; `SYNC ████████░░ 92.4%`
+
+**`Analista de Desenvolvimento Full Stack Júnior`** &nbsp;·&nbsp; `08/2025 — Present`
+
+- Liderança técnica na migração de monolito → microsserviços com **.NET 10**, **Minimal API**, **MediatR**, **Carter** e **Vertical Slice Architecture**
+- Mensageria com **RabbitMQ** + observabilidade distribuída com **.NET Aspire**
+- Mecanismo de otimização industrial em tempo real (algoritmo **Levenberg-Marquardt**) → **+3% de eficiência** em 3 usinas brasileiras
+- Dashboards em tempo real com **Next.js + Chart.js** consumindo dados diretamente de CLPs
+- Plataforma de gestão de férias com IA + **n8n** para 45 funcionários
+- Pipelines CI/CD individualizadas por microsserviço
+
+### `EVA-02 // SPINSOFTWARE` &nbsp;·&nbsp; `SYNC ████████░░ 86.1%`
+
+**`Fundador & Engenheiro de Software`** &nbsp;·&nbsp; `2025 — Present`
+
+- Plataforma jurídica de acompanhamento processual — **Next.js / NestJS**
+- CMS institucional do Sindicato dos Metalúrgicos de São Carlos — **Next.js / Strapi**
+- Sistema de busca por similaridade em **15.000+ PDFs** — **Python / RAG** (cliente metalúrgico internacional)
+- Plataforma de laudos médicos com IA — **Next.js / Flask / n8n**
+
+### `EVA-03 // UFSCAR IC` &nbsp;·&nbsp; `SYNC ███████░░░ 74.8%`
+
+**`Pesquisador de Iniciação Científica`** &nbsp;·&nbsp; `08/2025 — Present`
+
+- Well-being AI: infraestrutura distribuída para saúde mental com sensores IoT
+- Fusão multimodal: **EEG · ECG · GSR · FACS** com criptografia ponta a ponta
+- Classificadores **Naive Bayes / SVM** + microsserviços de baixa latência (`< 800ms`)
+- **Human-in-the-Loop (HITL)** e **Explainable AI (XAI)** aplicados
+
+---
+
+<details>
+<summary><code>[ ARCHIVED UNITS ]</code> &nbsp;— expand to view prior assignments</summary>
+
+<br>
+
+| Period | Unit | Role |
+|---|---|---|
+| `04/2024 — 05/2025` | **QuestIO** — UFSCar Extension | Backend Dev · Django/DRF + Auth0/JWT |
+| `07/2019 — 02/2020` | **SENAI São Paulo** | PLC Programmer · 🥇 1st place WorldSkills SP 2019 |
+| `03/2020 — 05/2020` | **Automativa** | Industrial Automation · TIA PORTAL |
+| `01/2018 — 01/2020` | **Tecumseh Products Co.** | Jovem Aprendiz · Eletroeletrônica (SENAI 800h) |
+
+</details>
+
+---
+
+## `[ ANGEL ENCOUNTERS ]`
+
+> *Production-grade systems shipped. Each angel matched to a project by shape and impact.*
+
+### 🟠 &nbsp;`SACHIEL` &nbsp;·&nbsp; *Levenberg-Marquardt Optimizer*
+First contact. Engine de otimização industrial em tempo real em **.NET** calculando cenários ótimos de operação para usinas de cana-de-açúcar. Resultado: **+3% de eficiência em 3 usinas brasileiras**.
+
+### 🟠 &nbsp;`RAMIEL` &nbsp;·&nbsp; *TRACTIAN Hackathon — 🥈 2nd Place*
+Precision strike. Plataforma onde líderes industriais enviam áudio via WhatsApp → o sistema gera ordens de serviço com passo-a-passo automaticamente. Stack: **Whisper + RAG + tokenização + geração automática de PDFs**.
+
+### 🟠 &nbsp;`ISRAFEL` &nbsp;·&nbsp; *PDF Similarity Search*
+Split nature. Engine de busca por similaridade em **15.000+ documentos PDF** para indústria metalúrgica internacional via **Python + RAG** sobre embeddings.
+
+### 🟠 &nbsp;`SAHAQUIEL` &nbsp;·&nbsp; *AI Vacation Platform*
+The watcher. Plataforma automatizada de gestão de férias processando e-mails de coordenadores via **n8n** com parsing automático e agendamento inteligente para **45 funcionários**.
+
+### 🟠 &nbsp;`LELIEL` &nbsp;·&nbsp; *Well-being AI*
+The shadow. Pesquisa em saúde mental fundindo sinais biométricos multimodais (EEG, ECG, GSR, FACS) com classificadores ML e microsserviços de baixa latência. UFSCar.
+
+### 🟠 &nbsp;`BARDIEL` &nbsp;·&nbsp; *Medical Reports AI*
+Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask + n8n** — foco em workflow clínico automatizado.
+
+---
+
+## `[ A.T. FIELD ACTIVE ]`
+
+> *MAGI System distributed cognition. Three nodes — one stack.*
+
+### `▸ MELCHIOR-1` &nbsp;//&nbsp; Backend & Core
+[![](https://skillicons.dev/icons?i=dotnet,cs,nodejs,nestjs,python,django,flask,fastapi,go,java&perline=10)](https://skillicons.dev)
+
+`.NET 6/7/8/10` · `Minimal API` · `MediatR` · `Carter` · `Vertical Slice` · `Clean Architecture` · `SOLID`
+
+### `▸ BALTHASAR-2` &nbsp;//&nbsp; Frontend & Interface
+[![](https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,tailwind,bootstrap,redux&perline=10)](https://skillicons.dev)
+
+`Vue 3 / Pinia` · `Next.js 14+` · `Chart.js` · `TailwindCSS`
+
+### `▸ CASPER-3` &nbsp;//&nbsp; DevOps, Infra & Cloud
+[![](https://skillicons.dev/icons?i=docker,kubernetes,linux,redhat,bash,githubactions,gitlab,nginx,aws,azure&perline=10)](https://skillicons.dev)
+
+`OpenShift` · `.NET Aspire` · `RHEL` · `Zabbix` · `GitFlow` · `CI/CD`
+
+### `▸ DATA NEXUS`
+[![](https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&perline=10)](https://skillicons.dev)
+
+`SQL Server` · `Entity Framework Core`
+
+### `▸ AI / ML SUBSYSTEMS`
+`RAG (Retrieval-Augmented Generation)` · `Whisper` · `Scikit-learn` · `Naive Bayes` · `SVM` · `LLM Integration` · `n8n`
+
+### `▸ MESSAGING & PROTOCOLS`
+`RabbitMQ` · `REST` · `GraphQL` · `WebSockets` · `OAuth2 / JWT` · `Twilio (SMS/WhatsApp)`
+
+---
+
+## `[ MAGI SYSTEM // COMBAT RECORDS ]`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Edu-Spinelli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0a&title_color=ff6600&text_color=ffffff&icon_color=ff6600" />
+<img height="180" src="https://streak-stats.demolab.com?user=Edu-Spinelli&hide_border=true&background=0a0a0a&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ff6600&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff6600&dates=ffffff" />
+
+<br><br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Spinelli&layout=compact&hide_border=true&langs_count=10&bg_color=0a0a0a&title_color=ff6600&text_color=ffffff" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edu-Spinelli&theme=github_dark" width="100%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edu-Spinelli&bg_color=0a0a0a&color=ff6600&line=ff6600&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## `[ NEON GENESIS CONTRIBUTIONS ]`
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/Edu-Spinelli/Edu-Spinelli/output/github-contribution-grid-snake.svg)
+
+*Sachiel approaches Tokyo-3. EVA-03 intercepts.*
+
+</div>
+
+---
+
+## `[ DECORATIONS ]`
+
+|     |     |
+|:---:|:---|
+| 🥇 | **1st Place** — São Paulo Skills 2019 · *PLC Programming / Mechatronics* |
+| 🥈 | **2nd Place** — Hackathon TRACTIAN 2024 |
+| 🎖️ | **Red Hat Certified System Administrator (RHCSA)** — RH124 v9.3 · 2025 |
+| 🎖️ | **Red Hat OpenShift Administration I (DO180)** — 2025 |
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Edu-Spinelli&theme=onedark&row=1&column=7&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## `[ TRANSMISSION CHANNELS ]`
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/eduardo-spinelli-a309011a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="mailto:eduardospinelli11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;
-<a href="https://www.instagram.com/edu_spinelli/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=FF6600&labelColor=0a0a0a)](https://www.linkedin.com/in/eduardo-spinelli-a309011a1/)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=FF6600&labelColor=0a0a0a)](mailto:eduardospinelli11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=FF6600&labelColor=0a0a0a)](https://github.com/Edu-Spinelli)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=FF6600&labelColor=0a0a0a)](https://www.instagram.com/edu_spinelli/)
+[![Pentagro](https://img.shields.io/badge/Pentagro-0a0a0a?style=for-the-badge&logo=briefcase&logoColor=FF6600&labelColor=0a0a0a)](https://www.pentagro.com.br/)
 
 </div>
-
----
-
-## Tech Stack
-
-#### Linguagens & Backend
-[![Backend Skills](https://skillicons.dev/icons?i=go,py,java,dotnet,js,nodejs&perline=8)](https://skillicons.dev)
-
-#### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=react,vue,svelte,html,css&perline=8)](https://skillicons.dev)
-
-#### Banco de Dados
-[![Database Skills](https://skillicons.dev/icons?i=postgres,redis,mongodb&perline=8)](https://skillicons.dev)
-
-#### DevOps & Cloud
-[![DevOps Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,githubactions,nginx&perline=8)](https://skillicons.dev)
-
-#### Ferramentas
-[![Tools](https://skillicons.dev/icons?i=git,vscode,postman&perline=8)](https://skillicons.dev)
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edu-Spinelli&theme=tokyonight" width="100%"/>
-<br>
-<img src="https://streak-stats.demolab.com/?user=Edu-Spinelli&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Conquistas & Formacao
-
-| | |
-|---|---|
-| **Ciencia da Computacao** | Universidade Federal de Sao Carlos (UFSCar) |
-| **Campeao Estadual** | WorldSkills Sao Paulo 2019 |
-| **Participante** | Competicao de Mecatronica Festo 2019 |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+```
+> The fate of destruction is also the joy of rebirth.
+```
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:0a0a0a&height=120&section=footer)
