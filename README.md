@@ -2,7 +2,7 @@
 <!--   EDUARDO SPINELLI  //  EVA-03 PILOT  //  CLASSIFIED        -->
 <!-- ============================================================ -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:FF6600&height=180&section=header&text=&fontSize=0&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:9D4EDD&height=180&section=header&text=&fontSize=0&animation=fadeIn)
 
 <div align="center">
 
@@ -19,9 +19,9 @@
 
 **`CLASSIFIED // EVA-03 PILOT FILE // CLEARANCE: ALPHA`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FF6600&center=true&vCenter=true&width=720&lines=PILOT_ID%3A+SPINELLI%2C+EDUARDO+H.;Full+Stack+Engineer+%2F%2F+Pentagro;.NET+10+%E2%80%A2+Microservices+%E2%80%A2+RAG;Founder+%E2%80%94+SpinSoftware;N%C3%A3o+fuja.+N%C3%A3o+fuja.+N%C3%A3o+fuja.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=9D4EDD&center=true&vCenter=true&width=720&lines=PILOT_ID%3A+SPINELLI%2C+EDUARDO+H.;Full+Stack+Engineer+%2F%2F+Pentagro;.NET+10+%E2%80%A2+Microservices+%E2%80%A2+RAG;Founder+%E2%80%94+SpinSoftware;N%C3%A3o+fuja.+N%C3%A3o+fuja.+N%C3%A3o+fuja.)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Edu-Spinelli&label=INTRUSION_DETECTED&color=FF6600&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Edu-Spinelli&label=INTRUSION_DETECTED&color=9D4EDD&style=for-the-badge)
 
 </div>
 
@@ -99,22 +99,22 @@ STATUS        : OPERATIONAL
 
 > *Production-grade systems shipped. Each angel matched to a project by shape and impact.*
 
-### 🟠 &nbsp;`SACHIEL` &nbsp;·&nbsp; *Levenberg-Marquardt Optimizer*
+### 🟣 &nbsp;`SACHIEL` &nbsp;·&nbsp; *Levenberg-Marquardt Optimizer*
 First contact. Engine de otimização industrial em tempo real em **.NET** calculando cenários ótimos de operação para usinas de cana-de-açúcar. Resultado: **+3% de eficiência em 3 usinas brasileiras**.
 
-### 🟠 &nbsp;`RAMIEL` &nbsp;·&nbsp; *TRACTIAN Hackathon — 🥈 2nd Place*
+### 🟣 &nbsp;`RAMIEL` &nbsp;·&nbsp; *TRACTIAN Hackathon — 🥈 2nd Place*
 Precision strike. Plataforma onde líderes industriais enviam áudio via WhatsApp → o sistema gera ordens de serviço com passo-a-passo automaticamente. Stack: **Whisper + RAG + tokenização + geração automática de PDFs**.
 
-### 🟠 &nbsp;`ISRAFEL` &nbsp;·&nbsp; *PDF Similarity Search*
+### 🟣 &nbsp;`ISRAFEL` &nbsp;·&nbsp; *PDF Similarity Search*
 Split nature. Engine de busca por similaridade em **15.000+ documentos PDF** para indústria metalúrgica internacional via **Python + RAG** sobre embeddings.
 
-### 🟠 &nbsp;`SAHAQUIEL` &nbsp;·&nbsp; *AI Vacation Platform*
+### 🟣 &nbsp;`SAHAQUIEL` &nbsp;·&nbsp; *AI Vacation Platform*
 The watcher. Plataforma automatizada de gestão de férias processando e-mails de coordenadores via **n8n** com parsing automático e agendamento inteligente para **45 funcionários**.
 
-### 🟠 &nbsp;`LELIEL` &nbsp;·&nbsp; *Well-being AI*
+### 🟣 &nbsp;`LELIEL` &nbsp;·&nbsp; *Well-being AI*
 The shadow. Pesquisa em saúde mental fundindo sinais biométricos multimodais (EEG, ECG, GSR, FACS) com classificadores ML e microsserviços de baixa latência. UFSCar.
 
-### 🟠 &nbsp;`BARDIEL` &nbsp;·&nbsp; *Medical Reports AI*
+### 🟣 &nbsp;`BARDIEL` &nbsp;·&nbsp; *Medical Reports AI*
 Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask + n8n** — foco em workflow clínico automatizado.
 
 ---
@@ -155,20 +155,20 @@ Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Edu-Spinelli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0a&title_color=ff6600&text_color=ffffff&icon_color=ff6600" />
-<img height="180" src="https://streak-stats.demolab.com?user=Edu-Spinelli&hide_border=true&background=0a0a0a&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ff6600&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff6600&dates=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Edu-Spinelli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0a&title_color=9d4edd&text_color=ffffff&icon_color=9d4edd" />
+<img height="180" src="https://streak-stats.demolab.com?user=Edu-Spinelli&hide_border=true&background=0a0a0a&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd&currStreakNum=ffffff&sideNums=ffffff&sideLabels=9d4edd&dates=ffffff" />
 
 <br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Spinelli&layout=compact&hide_border=true&langs_count=10&bg_color=0a0a0a&title_color=ff6600&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Spinelli&layout=compact&hide_border=true&langs_count=10&bg_color=0a0a0a&title_color=9d4edd&text_color=ffffff" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edu-Spinelli&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edu-Spinelli&theme=tokyonight" width="100%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edu-Spinelli&bg_color=0a0a0a&color=ff6600&line=ff6600&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edu-Spinelli&bg_color=0a0a0a&color=9d4edd&line=9d4edd&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -197,7 +197,7 @@ Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Edu-Spinelli&theme=onedark&row=1&column=7&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Edu-Spinelli&theme=radical&row=1&column=7&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -207,11 +207,11 @@ Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=FF6600&labelColor=0a0a0a)](https://www.linkedin.com/in/eduardo-spinelli-a309011a1/)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=FF6600&labelColor=0a0a0a)](mailto:eduardospinelli11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=FF6600&labelColor=0a0a0a)](https://github.com/Edu-Spinelli)
-[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=FF6600&labelColor=0a0a0a)](https://www.instagram.com/edu_spinelli/)
-[![Pentagro](https://img.shields.io/badge/Pentagro-0a0a0a?style=for-the-badge&logo=briefcase&logoColor=FF6600&labelColor=0a0a0a)](https://www.pentagro.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=9D4EDD&labelColor=0a0a0a)](https://www.linkedin.com/in/eduardo-spinelli-a309011a1/)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=9D4EDD&labelColor=0a0a0a)](mailto:eduardospinelli11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=9D4EDD&labelColor=0a0a0a)](https://github.com/Edu-Spinelli)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=9D4EDD&labelColor=0a0a0a)](https://www.instagram.com/edu_spinelli/)
+[![Pentagro](https://img.shields.io/badge/Pentagro-0a0a0a?style=for-the-badge&logo=briefcase&logoColor=9D4EDD&labelColor=0a0a0a)](https://www.pentagro.com.br/)
 
 </div>
 
@@ -225,4 +225,4 @@ Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:0a0a0a&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:0a0a0a&height=120&section=footer)

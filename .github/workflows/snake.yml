@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: Edu-Spinelli
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23FF6600&color_dots=%230a0a0a,%233a1a00,%237a3300,%23ff6600,%23ffaa66
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FF6600
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%239D4EDD&color_dots=%230a0a0a,%232d0a4f,%235a1f8c,%239d4edd,%23c77dff
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%239D4EDD
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
