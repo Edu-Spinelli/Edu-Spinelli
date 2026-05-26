@@ -19,7 +19,7 @@
 ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝  ╚═══╝
 ```
 
-<img src="./assets/eva-hero.gif" width="720" alt="EVA UNIT DEPLOYED" />
+<img src="./assets/eva-launch.gif" width="100%" alt="EVA-01 LAUNCH SEQUENCE — catapult cradle, surface breach, deployment" />
 
 **`CLASSIFIED // EVA-03 PILOT FILE // CLEARANCE: ALPHA`**
 
@@ -58,13 +58,57 @@
 
 ## `[ EVA UNITS DEPLOYED ]`
 
-<div align="center">
-
-<img src="./assets/eva-deployment.svg" width="100%" alt="EVA deployment cradle — 3 units, sync ratios, umbilical cables" />
-
-</div>
-
 > *Active assignments. Sync ratio reflects current operational depth.*
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%">
+
+<img src="./assets/eva-reactivate.gif" width="280" alt="EVA-01 reactivate"/>
+
+<br>
+
+**`EVA-01`**
+
+`PENTAGRO`
+
+`SYNC ████████░░ 92.4%`
+
+<sub>Full Stack Jr · 08/2025 →</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="./assets/eva-running.gif" width="280" alt="EVA-02 running"/>
+
+<br>
+
+**`EVA-02`**
+
+`SPINSOFTWARE`
+
+`SYNC ████████░░ 86.1%`
+
+<sub>Founder · 2025 →</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="./assets/eva-fight.gif" width="280" alt="EVA-03 engaging"/>
+
+<br>
+
+**`EVA-03`**
+
+`UFSCAR IC`
+
+`SYNC ███████░░░ 74.8%`
+
+<sub>Researcher · 08/2025 →</sub>
+
+</td>
+</tr>
+</table>
 
 ### `EVA-01 // PENTAGRO` &nbsp;·&nbsp; `SYNC ████████░░ 92.4%`
 
@@ -386,23 +430,37 @@ gantt
 
 <br>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
 
-<img src="./assets/berserker-active.svg" width="100%" alt="EVA-01 Berserker — sync 400%, umbilical severed, autonomous operation" />
+<img src="./assets/eva-berserker.gif" width="100%" alt="EVA-01 BERSERK — mouth glowing, autonomous combat"/>
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<br>
+#### `>> EVA-01 BERSERK <<`
 
-> *Pilot uplink severed. EVA-01 acting on its own. Sync ratio reading: 400%. Off the scale.*
+> *Pilot uplink severed.*
+> *EVA-01 acting on its own.*
+> *Sync ratio: **OFF THE SCALE.***
 
 ```
 [ STATUS ]
-  UMBILICAL ........ DISCONNECTED
-  POWER SOURCE ..... S2 ENGINE
-  OPERATIONAL TIME . UNLIMITED
-  CONTROL .......... AUTONOMOUS
+UMBILICAL ........ DISCONNECTED
+POWER SOURCE ..... S² ENGINE
+OPERATIONAL TIME . UNLIMITED
+CONTROL .......... AUTONOMOUS
+PILOT ............ ABSORBED
+A.T. FIELD ....... EXPANDING ∞
+SYNC RATIO ....... 400%
 ```
+
+</td>
+</tr>
+</table>
+
+<br>
 
 #### `> HIDDEN STACK // EXPERIMENTAL`
 `Rust` · `Elixir` · `LangChain` · `LlamaIndex` · `Terraform` · `Tauri` · `Bun` · `Deno`
