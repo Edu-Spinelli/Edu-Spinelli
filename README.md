@@ -40,11 +40,21 @@
 
 <img src="./assets/nerv-hud.svg" width="100%" alt="NERV Tactical HUD — Pilot file, Sync ratio, Current engagement, A.T. Field" />
 
+<br><br>
+
+<img src="./assets/pilot-vitals.svg" width="100%" alt="Pilot vitals — ECG, brain wave, heart rate, sync, stress" />
+
 </div>
 
 ---
 
 ## `[ EVA UNITS DEPLOYED ]`
+
+<div align="center">
+
+<img src="./assets/eva-deployment.svg" width="100%" alt="EVA deployment cradle — 3 units, sync ratios, umbilical cables" />
+
+</div>
 
 > *Active assignments. Sync ratio reflects current operational depth.*
 
@@ -96,6 +106,12 @@
 ---
 
 ## `[ ANGEL ENCOUNTERS ]`
+
+<div align="center">
+
+<img src="./assets/angel-radar.svg" width="100%" alt="Angel detection radar — sector 7 sweep with detected blips and kill feed" />
+
+</div>
 
 > *Production-grade systems shipped. Each angel matched to a project by shape and impact.*
 
@@ -149,6 +165,10 @@ Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask
 ## `[ A.T. FIELD ACTIVE ]`
 
 <div align="center">
+
+<img src="./assets/magi-system.svg" width="100%" alt="MAGI System — Melchior, Balthasar, Casper voting in unanimity" />
+
+<br><br>
 
 <img src="./assets/at-field.svg" width="100%" alt="A.T. Field — hexagonal barrier pulsing" />
 
@@ -262,5 +282,44 @@ Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask
 ```
 
 </div>
+
+<br>
+
+<details>
+<summary><code>[ CLASSIFIED // SCENARIO 14 // BERSERKER MODE — DO NOT OPEN ]</code></summary>
+
+<br>
+
+> *Pilot uplink severed. EVA-01 acting on its own. Sync ratio reading: 400%. Off the scale.*
+
+```
+[ STATUS ]
+  UMBILICAL ........ DISCONNECTED
+  POWER SOURCE ..... S2 ENGINE
+  OPERATIONAL TIME . UNLIMITED
+  CONTROL .......... AUTONOMOUS
+```
+
+#### `> HIDDEN STACK // EXPERIMENTAL`
+`Rust` · `Elixir` · `LangChain` · `LlamaIndex` · `Terraform` · `Tauri` · `Bun` · `Deno`
+
+#### `> READING LIST // CURRENT`
+- **Designing Data-Intensive Applications** — Kleppmann
+- **Building Microservices** — Newman
+- **Domain-Driven Design** — Evans
+- **Site Reliability Engineering** — Google
+
+#### `> CURRENT OBSESSIONS`
+- Distributed systems that don't blow up under load
+- AI agents que de fato fazem trabalho útil (não só demos)
+- Production observability stories — traces, metrics, logs, alertas que importam
+- Edge-deployed AI / on-device inference
+
+#### `> SECRET TRANSMISSION`
+Se você chegou até aqui no README, manda um `oi` no [LinkedIn](https://www.linkedin.com/in/eduardo-spinelli-a309011a1/) com o código `SACHIEL_NEUTRALIZED`. Eu respondo.
+
+> *"It moved on its own..."* — Misato Katsuragi
+
+</details>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:0a0a0a&height=120&section=footer)

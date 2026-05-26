@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" preserveAspectRatio="xMidYMid meet" font-family="'Courier New', ui-monospace, monospace">
+
+  <defs>
+    <pattern id="hexd" x="0" y="0" width="40" height="46.18" patternUnits="userSpaceOnUse">
+      <polygon points="20,0.5 39.5,11.55 39.5,34.63 20,45.68 0.5,34.63 0.5,11.55" fill="none" stroke="#2d1450" stroke-width="0.5"/>
+    </pattern>
+
+    <linearGradient id="evaGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7b2cbf" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#7b2cbf" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="syncBarG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7b2cbf"/>
+      <stop offset="100%" stop-color="#c77dff"/>
+    </linearGradient>
+
+    <filter id="evaGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Reusable EVA silhouette (simplified geometric figure) -->
+    <symbol id="evaShape" viewBox="-50 -90 100 180" overflow="visible">
+      <!-- Head (horn/crest) -->
+      <polygon points="-12,-86 0,-94 12,-86 8,-72 -8,-72" fill="#3d1860" stroke="#9d4edd" stroke-width="1.2"/>
+      <!-- Head body -->
+      <rect x="-14" y="-72" width="28" height="20" fill="#3d1860" stroke="#9d4edd" stroke-width="1.2"/>
+      <!-- Eye -->
+      <circle cx="0" cy="-62" r="3" fill="#c77dff">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <!-- Neck -->
+      <rect x="-7" y="-52" width="14" height="8" fill="#3d1860" stroke="#9d4edd" stroke-width="1"/>
+      <!-- Torso -->
+      <polygon points="-26,-44 26,-44 32,30 -32,30" fill="#3d1860" stroke="#9d4edd" stroke-width="1.2"/>
+      <!-- Chest core -->
+      <circle cx="0" cy="-15" r="6" fill="#9d4edd" filter="url(#evaGlow)">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="1.4s" repeatCount="indefinite"/>
+      </circle>
+      <!-- Shoulders/pauldrons -->
+      <polygon points="-32,-44 -42,-22 -28,-22" fill="#3d1860" stroke="#9d4edd" stroke-width="1"/>
+      <polygon points="32,-44 42,-22 28,-22" fill="#3d1860" stroke="#9d4edd" stroke-width="1"/>
+      <!-- Arms -->
+      <rect x="-44" y="-22" width="12" height="40" fill="#3d1860" stroke="#9d4edd" stroke-width="1"/>
+      <rect x="32" y="-22" width="12" height="40" fill="#3d1860" stroke="#9d4edd" stroke-width="1"/>
+      <!-- Lower body -->
+      <polygon points="-32,30 32,30 28,72 -28,72" fill="#3d1860" stroke="#9d4edd" stroke-width="1"/>
+      <!-- Legs -->
+      <rect x="-22" y="72" width="14" height="20" fill="#3d1860" stroke="#9d4edd" stroke-width="1"/>
+      <rect x="8" y="72" width="14" height="20" fill="#3d1860" stroke="#9d4edd" stroke-width="1"/>
+    </symbol>
+  </defs>
+
+  <rect width="900" height="360" fill="#0a0a0a"/>
+  <rect width="900" height="360" fill="url(#hexd)"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="900" height="36" fill="#1a0a2e"/>
+  <line x1="0" y1="36" x2="900" y2="36" stroke="#9d4edd" stroke-width="1"/>
+  <text x="18" y="24" fill="#9d4edd" font-size="13" font-weight="bold" letter-spacing="2">EVA UNITS // DEPLOYMENT CRADLE STATUS // LAUNCH READY</text>
+
+  <!-- Klaxon alert (top-right) -->
+  <g transform="translate(820, 18)">
+    <circle r="6" fill="#ff006e" filter="url(#evaGlow)">
+      <animate attributeName="opacity" values="1;0.2;1" dur="0.9s" repeatCount="indefinite"/>
+    </circle>
+    <text x="14" y="5" fill="#ff006e" font-size="11" font-weight="bold">LAUNCH</text>
+  </g>
+
+  <!-- Power grid bus (horizontal line at top) -->
+  <line x1="0" y1="60" x2="900" y2="60" stroke="#9d4edd" stroke-width="1" stroke-dasharray="2 4" opacity="0.5"/>
+  <text x="18" y="56" fill="#666" font-size="10">+ POWER BUS // GEOFRONT REACTOR</text>
+
+  <!-- ============ EVA-01 // PENTAGRO ============ -->
+  <g transform="translate(150, 60)">
+    <!-- Umbilical cable connecting to power bus -->
+    <line x1="0" y1="0" x2="0" y2="40" stroke="#9d4edd" stroke-width="2"/>
+    <circle cx="0" cy="2" r="3" fill="#c77dff" filter="url(#evaGlow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Cradle / launch platform -->
+    <rect x="-70" y="200" width="140" height="8" fill="#1a0a2e" stroke="#9d4edd" stroke-width="1"/>
+    <polygon points="-75,200 -85,220 85,220 75,200" fill="rgba(157,78,221,0.15)" stroke="#9d4edd" stroke-width="1"/>
+
+    <!-- EVA silhouette glow background -->
+    <ellipse cx="0" cy="130" rx="50" ry="90" fill="url(#evaGrad)"/>
+
+    <!-- The EVA itself -->
+    <use href="#evaShape" x="0" y="130"/>
+
+    <!-- Unit label -->
+    <text x="0" y="240" fill="#9d4edd" font-size="14" font-weight="bold" text-anchor="middle">EVA-01</text>
+    <text x="0" y="256" fill="#ffffff" font-size="11" text-anchor="middle">PENTAGRO</text>
+
+    <!-- Sync bar -->
+    <text x="-65" y="276" fill="#666" font-size="10">SYNC</text>
+    <rect x="-65" y="280" width="130" height="8" fill="#1a0a2e" stroke="#9d4edd" stroke-width="0.5"/>
+    <rect x="-64" y="281" width="0" height="6" fill="url(#syncBarG)">
+      <animate attributeName="width" values="0;120;120;110;120" keyTimes="0;0.5;0.7;0.85;1" dur="3.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="65" y="276" fill="#c77dff" font-size="10" text-anchor="end" font-weight="bold">92.4%</text>
+
+    <!-- Status indicators -->
+    <text x="-65" y="304" fill="#666" font-size="9">STATUS</text>
+    <circle cx="-18" cy="301" r="3" fill="#00ff66" filter="url(#evaGlow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-10" y="304" fill="#00ff66" font-size="9" font-weight="bold">ACTIVE</text>
+    <text x="38" y="304" fill="#666" font-size="9">.NET 10</text>
+  </g>
+
+  <!-- ============ EVA-02 // SPINSOFTWARE ============ -->
+  <g transform="translate(450, 60)">
+    <line x1="0" y1="0" x2="0" y2="40" stroke="#9d4edd" stroke-width="2"/>
+    <circle cx="0" cy="2" r="3" fill="#c77dff" filter="url(#evaGlow)">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="-70" y="200" width="140" height="8" fill="#1a0a2e" stroke="#9d4edd" stroke-width="1"/>
+    <polygon points="-75,200 -85,220 85,220 75,200" fill="rgba(157,78,221,0.15)" stroke="#9d4edd" stroke-width="1"/>
+
+    <ellipse cx="0" cy="130" rx="50" ry="90" fill="url(#evaGrad)"/>
+    <use href="#evaShape" x="0" y="130"/>
+
+    <text x="0" y="240" fill="#9d4edd" font-size="14" font-weight="bold" text-anchor="middle">EVA-02</text>
+    <text x="0" y="256" fill="#ffffff" font-size="11" text-anchor="middle">SPINSOFTWARE</text>
+
+    <text x="-65" y="276" fill="#666" font-size="10">SYNC</text>
+    <rect x="-65" y="280" width="130" height="8" fill="#1a0a2e" stroke="#9d4edd" stroke-width="0.5"/>
+    <rect x="-64" y="281" width="0" height="6" fill="url(#syncBarG)">
+      <animate attributeName="width" values="0;112;112;100;112" keyTimes="0;0.55;0.7;0.85;1" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="65" y="276" fill="#c77dff" font-size="10" text-anchor="end" font-weight="bold">86.1%</text>
+
+    <text x="-65" y="304" fill="#666" font-size="9">STATUS</text>
+    <circle cx="-18" cy="301" r="3" fill="#00ff66" filter="url(#evaGlow)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-10" y="304" fill="#00ff66" font-size="9" font-weight="bold">FOUNDER</text>
+    <text x="42" y="304" fill="#666" font-size="9">RAG/AI</text>
+  </g>
+
+  <!-- ============ EVA-03 // UFSCAR IC ============ -->
+  <g transform="translate(750, 60)">
+    <line x1="0" y1="0" x2="0" y2="40" stroke="#9d4edd" stroke-width="2"/>
+    <circle cx="0" cy="2" r="3" fill="#c77dff" filter="url(#evaGlow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.3s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="-70" y="200" width="140" height="8" fill="#1a0a2e" stroke="#9d4edd" stroke-width="1"/>
+    <polygon points="-75,200 -85,220 85,220 75,200" fill="rgba(157,78,221,0.15)" stroke="#9d4edd" stroke-width="1"/>
+
+    <ellipse cx="0" cy="130" rx="50" ry="90" fill="url(#evaGrad)"/>
+    <use href="#evaShape" x="0" y="130"/>
+
+    <text x="0" y="240" fill="#9d4edd" font-size="14" font-weight="bold" text-anchor="middle">EVA-03</text>
+    <text x="0" y="256" fill="#ffffff" font-size="11" text-anchor="middle">UFSCAR IC</text>
+
+    <text x="-65" y="276" fill="#666" font-size="10">SYNC</text>
+    <rect x="-65" y="280" width="130" height="8" fill="#1a0a2e" stroke="#9d4edd" stroke-width="0.5"/>
+    <rect x="-64" y="281" width="0" height="6" fill="url(#syncBarG)">
+      <animate attributeName="width" values="0;97;97;88;97" keyTimes="0;0.5;0.7;0.85;1" dur="3.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="65" y="276" fill="#c77dff" font-size="10" text-anchor="end" font-weight="bold">74.8%</text>
+
+    <text x="-65" y="304" fill="#666" font-size="9">STATUS</text>
+    <circle cx="-18" cy="301" r="3" fill="#ffaa00" filter="url(#evaGlow)">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-10" y="304" fill="#ffaa00" font-size="9" font-weight="bold">RESEARCH</text>
+    <text x="52" y="304" fill="#666" font-size="9">ML/IoT</text>
+  </g>
+
+  <!-- Bottom marquee -->
+  <g transform="translate(0, 350)">
+    <rect width="900" height="10" fill="#1a0a2e"/>
+    <rect x="-160" width="160" height="10" fill="url(#syncBarG)">
+      <animate attributeName="x" values="-160;900" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+</svg>
