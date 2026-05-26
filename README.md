@@ -377,9 +377,20 @@ gantt
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edu-Spinelli&bg_color=0a0a0a&color=9d4edd&line=9d4edd&point=ffffff&area=true&hide_border=true" width="100%" />
+<img loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=Edu-Spinelli&bg_color=0a0a0a&color=9d4edd&line=9d4edd&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
+
+#### `> WAKATIME // CODING TELEMETRY`
+
+> *Live coding hours by language, project, editor and timezone — updated every 24h via GitHub Action.*
+
+<!--START_SECTION:waka-->
+```txt
+⏱️  Waiting for WakaTime data to populate — first stats appear after ~24h of activity
+    or after the next scheduled action run (daily at 03:00 UTC).
+```
+<!--END_SECTION:waka-->
 
 ---
 
