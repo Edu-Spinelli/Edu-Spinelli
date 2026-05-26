@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" preserveAspectRatio="xMidYMid meet" font-family="'Courier New', ui-monospace, monospace">
+
+  <defs>
+    <linearGradient id="dangerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#1a0008"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+
+    <pattern id="caution" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect x="0" y="0" width="12" height="24" fill="#ff006e"/>
+      <rect x="12" y="0" width="12" height="24" fill="#0a0a0a"/>
+    </pattern>
+
+    <filter id="dGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="redShake">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background — pulsing between dark and red-tinted -->
+  <rect width="900" height="200" fill="url(#dangerBg)">
+    <animate attributeName="opacity" values="1;0.85;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Top + bottom hazard stripes -->
+  <rect x="0" y="0" width="900" height="14" fill="url(#caution)" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="186" width="900" height="14" fill="url(#caution)" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Side red flashing dots -->
+  <g>
+    <circle cx="40" cy="100" r="10" fill="#ff006e" filter="url(#dGlow)">
+      <animate attributeName="opacity" values="1;0.1;1" dur="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="10;14;10" dur="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="860" cy="100" r="10" fill="#ff006e" filter="url(#dGlow)">
+      <animate attributeName="opacity" values="0.1;1;0.1" dur="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="14;10;14" dur="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="80" cy="100" r="6" fill="#ff006e" opacity="0.6">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="100" r="6" fill="#ff006e" opacity="0.6">
+      <animate attributeName="opacity" values="0.1;0.6;0.1" dur="0.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Center warning text -->
+  <text x="450" y="55" font-size="13" font-weight="bold" text-anchor="middle" fill="#ff006e" letter-spacing="4" filter="url(#redShake)">
+    RESTRICTED ACCESS // CLEARANCE BEYOND ALPHA
+    <animate attributeName="opacity" values="1;0.4;1" dur="1s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Big skull-like warning glyph centered with shaking -->
+  <g transform="translate(450, 100)" filter="url(#redShake)">
+    <animateTransform attributeName="transform" type="translate" values="450,100;451,100;449,100;450,101;450,99;450,100" dur="0.18s" repeatCount="indefinite" additive="sum"/>
+
+    <!-- Inverted triangle warning shape -->
+    <polygon points="-46,-22 46,-22 0,30" fill="none" stroke="#ff006e" stroke-width="2.5" filter="url(#dGlow)"/>
+    <text x="0" y="14" fill="#ff006e" font-size="32" font-weight="bold" text-anchor="middle">!</text>
+  </g>
+
+  <text x="450" y="100" font-size="26" font-weight="bold" text-anchor="middle" fill="#ffffff" letter-spacing="6" filter="url(#redShake)">
+    <tspan dx="160">SCENARIO 14</tspan>
+  </text>
+
+  <text x="450" y="124" font-size="14" font-weight="bold" text-anchor="middle" fill="#c77dff" letter-spacing="3">
+    BERSERKER MODE // PILOT UPLINK SEVERED
+  </text>
+
+  <text x="450" y="146" font-size="12" text-anchor="middle" fill="#666666" letter-spacing="2">
+    SYNC RATIO: <tspan fill="#ff006e" font-weight="bold">OFF THE SCALE</tspan>
+    <tspan dx="20">EVA-01 STATUS: <tspan fill="#ff006e" font-weight="bold">ACTING ON ITS OWN</tspan></tspan>
+  </text>
+
+  <!-- Animated arrow pointing down with "CLICK BELOW TO BREAK SEAL" -->
+  <g transform="translate(450, 170)">
+    <text font-size="11" text-anchor="middle" fill="#c77dff" letter-spacing="3" font-weight="bold">
+      ▼ CLICK BELOW TO BREAK SEAL ▼
+      <animate attributeName="opacity" values="1;0.3;1" dur="0.8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+</svg>

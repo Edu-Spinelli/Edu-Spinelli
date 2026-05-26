@@ -371,8 +371,26 @@ gantt
 
 <br>
 
+<div align="center">
+
+<img src="./assets/berserker-warning.svg" width="100%" alt="DANGER — Scenario 14 sealed. Click below to break the seal." />
+
+</div>
+
 <details>
-<summary><code>[ CLASSIFIED // SCENARIO 14 // BERSERKER MODE — DO NOT OPEN ]</code></summary>
+<summary>
+
+### &nbsp; 🔴 &nbsp; `>>  BREAK SEAL // INITIATE SCENARIO 14  <<` &nbsp; 🔴
+
+</summary>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/berserker-active.svg" width="100%" alt="EVA-01 Berserker — sync 400%, umbilical severed, autonomous operation" />
+
+</div>
 
 <br>
 
