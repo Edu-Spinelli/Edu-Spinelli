@@ -155,16 +155,18 @@ Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Edu-Spinelli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0a&title_color=9d4edd&text_color=ffffff&icon_color=9d4edd" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edu-Spinelli&theme=tokyonight" width="100%" />
+
+<br><br>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edu-Spinelli&theme=tokyonight" />
 <img height="180" src="https://streak-stats.demolab.com?user=Edu-Spinelli&hide_border=true&background=0a0a0a&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd&currStreakNum=ffffff&sideNums=ffffff&sideLabels=9d4edd&dates=ffffff" />
 
 <br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Spinelli&layout=compact&hide_border=true&langs_count=10&bg_color=0a0a0a&title_color=9d4edd&text_color=ffffff" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edu-Spinelli&theme=tokyonight" width="100%" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edu-Spinelli&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edu-Spinelli&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Edu-Spinelli&theme=tokyonight" />
 
 <br><br>
 
@@ -197,7 +199,10 @@ Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Edu-Spinelli&theme=radical&row=1&column=7&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![RHCSA](https://img.shields.io/badge/Red%20Hat-RHCSA-9D4EDD?style=for-the-badge&logo=redhat&logoColor=9D4EDD&labelColor=0a0a0a)](#)
+[![OpenShift](https://img.shields.io/badge/Red%20Hat-OpenShift%20DO180-9D4EDD?style=for-the-badge&logo=redhatopenshift&logoColor=9D4EDD&labelColor=0a0a0a)](#)
+[![WorldSkills](https://img.shields.io/badge/WorldSkills%20SP-1st%20Place-9D4EDD?style=for-the-badge&logo=trophy&logoColor=9D4EDD&labelColor=0a0a0a)](#)
+[![TRACTIAN](https://img.shields.io/badge/TRACTIAN%20Hackathon-2nd%20Place-9D4EDD?style=for-the-badge&logo=hackthebox&logoColor=9D4EDD&labelColor=0a0a0a)](#)
 
 </div>
 
