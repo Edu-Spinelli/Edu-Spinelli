@@ -15,6 +15,8 @@
 ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝  ╚═══╝
 ```
 
+<img src="./assets/eva-hero.gif" width="720" alt="EVA UNIT DEPLOYED" />
+
 **`CLASSIFIED // EVA-03 PILOT FILE // CLEARANCE: ALPHA`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FF6600&center=true&vCenter=true&width=720&lines=PILOT_ID%3A+SPINELLI%2C+EDUARDO+H.;Full+Stack+Engineer+%2F%2F+Pentagro;.NET+10+%E2%80%A2+Microservices+%E2%80%A2+RAG;Founder+%E2%80%94+SpinSoftware;N%C3%A3o+fuja.+N%C3%A3o+fuja.+N%C3%A3o+fuja.)](https://git.io/typing-svg)
@@ -172,7 +174,7 @@ Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask
 
 ---
 
-## `[ NEON GENESIS CONTRIBUTIONS ]`
+## `[ ANGEL INTERCEPT GRID ]`
 
 <div align="center">
 
