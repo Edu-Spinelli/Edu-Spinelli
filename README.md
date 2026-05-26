@@ -6,6 +6,10 @@
 
 <div align="center">
 
+<img src="./assets/boot-sequence.svg" width="100%" alt="NERV.SYS boot sequence" />
+
+<br><br>
+
 ```
 ███╗   ██╗███████╗██████╗ ██╗   ██╗
 ████╗  ██║██╔════╝██╔══██╗██║   ██║
@@ -25,10 +29,14 @@
 
 <br>
 
-[![Engaged Angels](https://img.shields.io/badge/ENGAGED%20ANGELS-6-9D4EDD?style=for-the-badge&labelColor=0a0a0a)](#)
+[![Engaged Angels](https://img.shields.io/badge/ENGAGED%20ANGELS-13-9D4EDD?style=for-the-badge&labelColor=0a0a0a)](#)
 [![Sync](https://img.shields.io/badge/SYNC%20RATIO-87.3%25-c77dff?style=for-the-badge&labelColor=0a0a0a)](#)
 [![AT Field](https://img.shields.io/badge/A.T.%20FIELD-ACTIVE-00ff66?style=for-the-badge&labelColor=0a0a0a)](#)
 [![Third Impact](https://img.shields.io/badge/THIRD%20IMPACT-AVERTED-ff006e?style=for-the-badge&labelColor=0a0a0a)](#)
+
+<br><br>
+
+<img src="./assets/tokyo-3.svg" width="100%" alt="Tokyo-3 cityscape with armored buildings retracting into Geofront" />
 
 </div>
 
@@ -160,6 +168,76 @@ The shadow. Pesquisa em saúde mental fundindo sinais biométricos multimodais (
 ### 🟣 &nbsp;`BARDIEL` &nbsp;·&nbsp; *Medical Reports AI*
 Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask + n8n** — foco em workflow clínico automatizado.
 
+### 🟣 &nbsp;`SHAMSHEL` &nbsp;·&nbsp; *Industrial Automation Legacy*
+Whip arms — sistemas de controle. Programação de **CLPs** e código em **TIA PORTAL** para automação industrial regional + revisão de conectores da Volkswagen do Brasil. Where it all began.
+
+### 🟣 &nbsp;`MATARAEL` &nbsp;·&nbsp; *QuestIO — UFSCar Extension*
+The persistent rain. Plataforma de laboratórios remotos do Departamento de Computação da UFSCar — **Django + DRF** com **Auth0/JWT**, cultura de testes automatizados, refactor de queries e onboarding docs com OpenAPI.
+
+### 🟣 &nbsp;`ZERUEL` &nbsp;·&nbsp; *Monolith-to-Microservices Migration*
+The strongest angel. Liderança técnica da migração do sistema da **Pentagro** de monolito distribuído para microsserviços com **.NET 10**, **Minimal API**, **MediatR**, **Carter**, **Vertical Slice Architecture** e **RabbitMQ** + observabilidade com **.NET Aspire**.
+
+### 🟣 &nbsp;`ARMISAEL` &nbsp;·&nbsp; *Twilio Comms Integration*
+The DNA helix — fusão de canais. Integração de **Twilio API** para SMS e WhatsApp Business + **autenticação JWT** com Identity Framework no backend .NET Core.
+
+### 🟣 &nbsp;`ARAEL` &nbsp;·&nbsp; *Sindicato Metalúrgicos CMS*
+The light — knowledge surface. Plataforma de gestão de conteúdo para o site institucional do Sindicato dos Metalúrgicos de São Carlos com **Next.js + Strapi CMS**.
+
+### 🟣 &nbsp;`SANDALPHON` &nbsp;·&nbsp; *Plataforma Jurídica*
+The volcanic — pressure-tested. Plataforma jurídica de acompanhamento processual com **Next.js / React** no frontend e **NestJS / Node.js** no backend.
+
+### 🟣 &nbsp;`TABRIS` &nbsp;·&nbsp; *Real-time CLP Dashboards*
+The final angel. Dashboards de visualização em tempo real com **Next.js + Chart.js** consumindo dados diretamente de **CLPs das usinas** para análise pela equipe de engenharia.
+
+---
+
+## `[ SIDE OPERATIONS // INTEL BRIEFING ]`
+
+> *Public repositories — declassified field reports.*
+
+| ID | Codename | Stack | Brief |
+|:---:|:---|:---:|:---|
+| `OP-019` | [**Encurtador**](https://github.com/Edu-Spinelli/Encurtador) | ![Go](https://img.shields.io/badge/-Go-9D4EDD?style=flat-square&logo=go&logoColor=ffffff&labelColor=0a0a0a) | URL shortener engine |
+| `OP-018` | [**auth**](https://github.com/Edu-Spinelli/auth) | ![Python](https://img.shields.io/badge/-Python-9D4EDD?style=flat-square&logo=python&logoColor=ffffff&labelColor=0a0a0a) | JWT auth module |
+| `OP-017` | [**estudo-nest**](https://github.com/Edu-Spinelli/estudo-nest) | ![Nest](https://img.shields.io/badge/-NestJS-9D4EDD?style=flat-square&logo=nestjs&logoColor=ffffff&labelColor=0a0a0a) | NestJS deep-dive |
+| `OP-016` | [**hackathon-magalu**](https://github.com/Edu-Spinelli/hackathon-magalu) | ![JS](https://img.shields.io/badge/-JavaScript-9D4EDD?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=0a0a0a) | Magalu hackathon entry |
+| `OP-015` | [**T2-DevOps-Plannerrun**](https://github.com/Edu-Spinelli/T2-DevOps-Plannerrun) | ![TS](https://img.shields.io/badge/-TypeScript-9D4EDD?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=0a0a0a) | DevOps planning tool |
+| `OP-014` | [**pipes-and-filters**](https://github.com/Edu-Spinelli/pipes-and-filters) | ![Python](https://img.shields.io/badge/-Python-9D4EDD?style=flat-square&logo=python&logoColor=ffffff&labelColor=0a0a0a) | Architecture pattern study |
+| `OP-013` | [**CoinLearning**](https://github.com/Edu-Spinelli/CoinLearning) | ![Python](https://img.shields.io/badge/-Python-9D4EDD?style=flat-square&logo=python&logoColor=ffffff&labelColor=0a0a0a) | Crypto ML experiments |
+| `OP-012` | [**UAU_django-vue**](https://github.com/Edu-Spinelli/UAU_django-vue) | ![Django](https://img.shields.io/badge/-Django-9D4EDD?style=flat-square&logo=django&logoColor=ffffff&labelColor=0a0a0a) | Django + Vue integration |
+| `OP-011` | [**front-odonto**](https://github.com/Edu-Spinelli/front-odonto) | ![TS](https://img.shields.io/badge/-TypeScript-9D4EDD?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=0a0a0a) | Dental clinic frontend |
+| `OP-010` | [**uau_node_react**](https://github.com/Edu-Spinelli/uau_node_react) | ![React](https://img.shields.io/badge/-React-9D4EDD?style=flat-square&logo=react&logoColor=ffffff&labelColor=0a0a0a) | Node + React integration |
+
+---
+
+## `[ NERV CHRONOLOGY // CAREER TIMELINE ]`
+
+```mermaid
+gantt
+    title NERV PERSONNEL FILE — DEPLOYMENT TIMELINE
+    dateFormat YYYY-MM
+    axisFormat %Y
+
+    section ARCHIVED UNITS
+    Tecumseh / Jovem Aprendiz        :2018-01, 24M
+    SENAI · WorldSkills Champion 🥇   :2019-07, 7M
+    Automativa · TIA PORTAL          :2020-03, 2M
+
+    section ACADEMY
+    UFSCar — Ciência da Computação   :2021-08, 60M
+
+    section EVA UNITS
+    QuestIO · Backend Dev            :2024-04, 13M
+    Pentagro · Intern                :2024-08, 12M
+    SpinSoftware · Founder           :2025-01, 24M
+    Pentagro · Full Stack Jr         :2025-08, 24M
+    UFSCar IC · Well-being AI        :2025-08, 24M
+
+    section CERTIFICATIONS
+    Red Hat OpenShift DO180          :2025-01, 1M
+    Red Hat RHCSA RH124              :2025-05, 1M
+```
+
 ---
 
 ## `[ A.T. FIELD ACTIVE ]`
@@ -270,6 +348,14 @@ Plataforma de laudos médicos com inteligência artificial — **Next.js + Flask
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=9D4EDD&labelColor=0a0a0a)](https://github.com/Edu-Spinelli)
 [![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=9D4EDD&labelColor=0a0a0a)](https://www.instagram.com/edu_spinelli/)
 [![Pentagro](https://img.shields.io/badge/Pentagro-0a0a0a?style=for-the-badge&logo=briefcase&logoColor=9D4EDD&labelColor=0a0a0a)](https://www.pentagro.com.br/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/lance-of-longinus.svg" width="100%" alt="Lance of Longinus — anti A.T. Field armament in orbital standby" />
 
 </div>
 
