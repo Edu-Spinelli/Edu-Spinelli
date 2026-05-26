@@ -10,6 +10,14 @@
 
 <br><br>
 
+> ### **`> Full Stack Engineer · Líder Técnico .NET 10 · Founder @ SpinSoftware · IC Researcher @ UFSCar`**
+>
+> Construo **sistemas críticos em produção** — migração de monolitos para microsserviços, otimização industrial em tempo real, RAG sobre 15K+ documentos, IA aplicada à saúde mental. Liderança técnica, arquitetura, e a disciplina de quem já viu rodar em 3 usinas brasileiras.
+>
+> `PT-BR (Nativo) // EN (C1) // ES (A2)` &nbsp; · &nbsp; `São Carlos / SP — Brasil`
+
+<br>
+
 ```
 ███╗   ██╗███████╗██████╗ ██╗   ██╗
 ████╗  ██║██╔════╝██╔══██╗██║   ██║
@@ -330,6 +338,10 @@ gantt
 
 <div align="center">
 
+<img src="./assets/impact-metrics.svg" width="100%" alt="Impact metrics — +3% efficiency, 45 employees, 15K+ docs, 13 projects, .NET 10, RHCSA"/>
+
+<br><br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edu-Spinelli&theme=tokyonight" width="100%" />
 
 <br><br>
@@ -383,6 +395,20 @@ gantt
 
 ---
 
+## `[ ENGINEERING MANIFESTO ]`
+
+> *Cinco princípios — não negociáveis.*
+
+| | |
+|:---:|:---|
+| `01` | **Sistemas em produção que não explodem.** &nbsp; Arquitetura é a única coisa que separa um demo de 200 usuários de uma usina rodando 24/7. Testes, observabilidade, rollback. Sem hero culture. |
+| `02` | **Impacto > stack.** &nbsp; A escolha do framework importa menos que **+3% de eficiência em 3 usinas**, **45 funcionários servidos por uma plataforma**, **15K documentos indexados**. Métricas reais ou nada. |
+| `03` | **Distribuído por necessidade — nunca por moda.** &nbsp; Vertical Slice, MediatR, RabbitMQ existem porque resolvem dor real (acoplamento, latência, observabilidade). Monolitos bem feitos > microsserviços mal feitos. |
+| `04` | **A produção é o melhor professor.** &nbsp; CLPs em usinas, EEG/ECG/GSR em pesquisa, RAG sobre PDFs reais — cada sistema é uma aula de domínio. Tecnologia serve o domínio, não o contrário. |
+| `05` | **Engenharia é craft.** &nbsp; Clean Code, SOLID, DDD, TDD — não como dogma, como respeito por quem mantém depois. Linhas de código são lidas mais vezes do que escritas. |
+
+---
+
 ## `[ TRANSMISSION CHANNELS ]`
 
 <div align="left">
@@ -392,6 +418,7 @@ gantt
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=9D4EDD&labelColor=0a0a0a)](https://github.com/Edu-Spinelli)
 [![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=9D4EDD&labelColor=0a0a0a)](https://www.instagram.com/edu_spinelli/)
 [![Pentagro](https://img.shields.io/badge/Pentagro-0a0a0a?style=for-the-badge&logo=briefcase&logoColor=9D4EDD&labelColor=0a0a0a)](https://www.pentagro.com.br/)
+[![Resume](https://img.shields.io/badge/Curr%C3%ADculo%20PT-Download%20PDF-c77dff?style=for-the-badge&logo=adobeacrobatreader&logoColor=c77dff&labelColor=0a0a0a)](./Curriculo_PT.pdf)
 
 </div>
 
